@@ -1,0 +1,52 @@
+date,amount,category,description
+01-01-2024,1500.00,Income,Salary
+02-01-2024,200.00,Income,Freelance Work
+03-01-2024,50.00,Expense,Coffee
+04-01-2024,75.00,Expense,Lunch
+05-01-2024,300.00,Income,Consulting
+06-01-2024,450.00,Expense,Grocery
+07-01-2024,600.00,Income,Rent
+08-01-2024,100.00,Expense,Transportation
+09-01-2024,250.00,Income,Dividend
+10-01-2024,30.00,Expense,Dinner
+11-01-2024,500.00,Income,Bonus
+12-01-2024,80.00,Expense,Cinema
+13-01-2024,400.00,Income,Stock Sale
+14-01-2024,25.00,Expense,Snacks
+15-01-2024,600.00,Income,Rent
+16-01-2024,120.00,Expense,Gym Membership
+17-01-2024,350.00,Income,Freelance Project
+18-01-2024,90.00,Expense,Lunch with Client
+19-01-2024,2000.00,Income,Salary
+20-01-2024,15.00,Expense,Coffee
+21-01-2024,300.00,Income,Selling Old Items
+22-01-2024,60.00,Expense,Cab Fare
+23-01-2024,500.00,Income,Savings Interest
+24-01-2024,45.00,Expense,Lunch
+25-01-2024,700.00,Income,Rent Payment
+26-01-2024,100.00,Expense,Grocery Shopping
+27-01-2024,1500.00,Income,Business Income
+28-01-2024,20.00,Expense,Soda
+29-01-2024,250.00,Income,Affiliate Marketing
+30-01-2024,70.00,Expense,Dinner Out
+31-01-2024,800.00,Income,Savings Bonus
+01-02-2024,40.00,Expense,Coffee Break
+02-02-2024,1500.00,Income,Rent Income
+03-02-2024,200.00,Expense,Tickets to Event
+04-02-2024,600.00,Income,Sales Commission
+05-02-2024,90.00,Expense,Lunch with Friends
+06-02-2024,3000.00,Income,Bonus Payment
+07-02-2024,25.00,Expense,Coffee Shop
+08-02-2024,1200.00,Income,Freelance Contract
+09-02-2024,15.00,Expense,Smoothie
+10-02-2024,400.00,Income,Cash Gift
+11-02-2024,60.00,Expense,Lunch Meeting
+12-02-2024,1000.00,Income,Selling Crafts
+13-02-2024,45.00,Expense,Miscellaneous Snacks
+14-02-2024,500.00,Income,Rental Income
+15-02-2024,30.00,Expense,Dessert Outing
+16-02-2024,750.00,Income,Savings Contribution
+17-02-2024,80.00,Expense,Grocery Run
+18-02-2024,3000.00,Income,Salaries Received
+19-02-2024,200.00,Expense,Dinner with Family
+20-02-2024,1500.00,Income,Business Revenue
